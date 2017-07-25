@@ -14,3 +14,6 @@ print "Actually thats not too heavy"
 print "He got %s eyes and %s hair" % (my_eyes,my_hair)
 print "His teeth are usaully %s depending on the coffe" % my_teeth
 print " If I add %d, %d, and %d I get %d"%(my_age,my_height,my_weight,my_age+my_height+my_weight)
+
+print "Try %r in python"
+print " If I %r add %r, %r, and %r I get %r"%(my_name,my_age,my_height,my_weight,my_age+my_height+my_weight)
